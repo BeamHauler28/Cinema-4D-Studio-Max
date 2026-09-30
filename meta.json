@@ -1,0 +1,26 @@
+{
+  "repo": "cinema-4d-studio-max",
+  "product": "Cinema 4D Studio Max",
+  "kind": "cad",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part2",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "engineering-cad",
+  "topics": [
+    "cinema-4d-studio-max",
+    "cinema-desktop",
+    "cinema-windows",
+    "2d-drafting",
+    "3d-modeling",
+    "technical-drawings",
+    "parametric-design",
+    "engineering-desktop",
+    "architecture-drafting",
+    "mechanical-design",
+    "desktop-cad",
+    "windows-cad",
+    "blueprint-design"
+  ],
+  "site": "zentool.art"
+}
